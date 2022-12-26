@@ -1,0 +1,7 @@
+:
+set +vx
+/bin/mknod /usr/lib/chat_server p
+chmod 0622 /usr/lib/chat_server
+echo "+++ requesting for a chat +++" > /usr/lib/chat_msg
+chmod 0444 /usr/lib/chat_msg
+echo "Dont forget to start the server in the background!"
