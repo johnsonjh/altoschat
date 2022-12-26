@@ -1,0 +1,8 @@
+*~
+*.bak
+chat
+chat.o
+*.core
+core
+serv
+serv.o
