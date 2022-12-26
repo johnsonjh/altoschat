@@ -1,8 +1,6 @@
-
 Once upon a time there stood Altos, an X.25 site in West Germany
 reachable on the NUA 026245890040004. That was almost 10 years ago.
 Centuries ago. At that time, 1200 baud was *fast..
-
 
 Their system operators (Korn and Blau) were running this chatline,
 which is not by any mean efficient, user-friendly, powerful etc.
@@ -28,4 +26,3 @@ The code is trivial, you can poke around and customize it.
 Happy chatting!
 		Paolo Ventafridda
 		venta@i2ack.sublink.org
-

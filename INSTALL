@@ -1,4 +1,3 @@
-:
 set +vx
 /bin/mknod /usr/lib/chat_server p
 chmod 0622 /usr/lib/chat_server
